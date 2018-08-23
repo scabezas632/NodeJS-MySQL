@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-mysql",
+  "version": "1.0.0",
+  "description": "Prueba de un backend con NodeJS y MySQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scabezas632/NodeJS-MySQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scabezas632/NodeJS-MySQL/issues"
+  },
+  "homepage": "https://github.com/scabezas632/NodeJS-MySQL#readme",
+  "dependencies": {
+    "npm": "^6.4.0"
+  }
+}
